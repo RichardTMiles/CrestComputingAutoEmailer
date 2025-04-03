@@ -56,9 +56,11 @@ foreach ($scheduleData['classes'] as $class) {
 
     echo "Curriculum Week: $curriculumWeek\n";
 
-    // Lookup lesson from indexed template structure
-    $lessonTemplate = $emailTemplates[$curriculumWeek] ?? null;
-    if (!$lessonTemplate) {
+    // Determine current lesson name by curriculumWeek
+    $lessonNames = array_keys($emailTemplates);
+    $lessonKey   = $lessonNames[$curriculumWeek] ?? null;
+
+    if (!$lessonKey || !isset($emailTemplates[$lessonKey])) {
         fwrite(STDERR, "\n✖️ No email template found for curriculum week $curriculumWeek\n");
         continue;
     }
@@ -70,7 +72,9 @@ foreach ($scheduleData['classes'] as $class) {
         continue;
     }
 
+    $lessonTemplate = $emailTemplates[$lessonKey];
     $mainBody = $lessonTemplate['body'];
+
     $footerLinks = implode("\n", $class['links']);
     $fullMessage = $mainBody . "\n\n" . $footerLinks . "\n\n" . $signature;
 
@@ -78,13 +82,12 @@ foreach ($scheduleData['classes'] as $class) {
     if ($currentTime >= $class['startTime'] || !in_array($cacheKey, $sentCache)) {
         $bccScriptArray = '{' . implode(', ', array_map(fn($email) => "\"$email\"", $class['bcc'])) . '}';
 
-        $escapedBody = addslashes($fullMessage);
+        $escapedBody = "Howdy Parents 👋,\n\n" . addslashes($fullMessage);
         $subject = $lessonTemplate['subject'] ?? "$subjectPrefix {$class['className']}";
 
         $appleScript = <<<APPLESCRIPT
         tell application "Mail"
-            set newMessage to make new outgoing message with properties {visible:true, subject:"{$subject}"}
-            set html content of newMessage to "<body>{$escapedBody}</body>"
+            set newMessage to make new outgoing message with properties {visible:true, subject:"{$subject}", content:"{$escapedBody}"}
             tell newMessage
                 make new to recipient at end of to recipients with properties {address:"{$senderEmail}"}
                 repeat with b in {$bccScriptArray}
@@ -95,12 +98,6 @@ foreach ($scheduleData['classes'] as $class) {
             end tell
         end tell
 APPLESCRIPT;
-
-        // === Step 6: Output AppleScript for debugging ===
-        echo "====== Generated AppleScript ======\n";
-        echo $appleScript . "\n";
-        echo "===================================\n\n";
-
 
         $tmpScript = tempnam(sys_get_temp_dir(), 'mail-draft') . '.scpt';
         file_put_contents($tmpScript, $appleScript);
@@ -114,5 +111,7 @@ APPLESCRIPT;
         } else {
             echo "❌ Error sending AppleScript to Mail (exit code: $exitCode)\n";
         }
+
+        break; // Stop after the first matching class for the day
     }
 }
