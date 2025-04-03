@@ -1,0 +1,24 @@
+{
+  "classes": [
+    {
+      "schoolName": "Timber Trail",
+      "className": "Motorized Tricycles",
+      "startDate": "2024-9-30",
+      "skip": ["2025-03-16"],
+      "startTime": "08:00",
+      "endTime": "10:00",
+      "bcc": ["monday-group@example.com"],
+      "links": ["https://seesaw.me/monday"]
+    },
+    {
+      "schoolName": "Crest Robotics Academy",
+      "className": "Obstacle-Dodging Robots",
+      "startDate": "2025-01-05",
+      "skip": ["2025-05-25"],
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "bcc": ["monday-group@example.com"],
+      "links": ["https://seesaw.me/monday"]
+    }
+  ]
+}
