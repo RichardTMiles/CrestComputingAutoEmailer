@@ -2,11 +2,9 @@
 
 This was vibe coded with ChatGPT.
 
-This utility automates rich weekly email drafts for afterschool robotics programs. It pulls from JSON-based class schedules and templated lessons, formats personalized messages with an inline logo, and drafts them in Apple Mail for manual review.
+This utility automates rich weekly email drafts for afterschool robotics programs. It pulls from JSON-based class schedules and templated lessons, formats personalized messages with an inline logo, and drafts them in Gmail via a lightweight Chrome extension for manual review.
 
-It also installs itself into cron for automated hourly checks and avoids re-sending duplicate emails.
-
-For a browser-based option, see [CHROME.md](CHROME.md) for a minimal Chrome extension.
+A legacy Apple Mail + cron script remains in the repo for reference, but the Chrome extension is the primary way to run it. See [CHROME.md](CHROME.md) for extension setup instructions.
 
 ---
 
@@ -36,32 +34,29 @@ This file contains your curriculum-aligned email templates, each indexed by the 
 ## 🚀 Features
 
 - ✅ Auto-detects the current curriculum week (with skipped week support)
-- 📬 Opens visible Apple Mail drafts (via AppleScript) for review and manual send
+- 📬 Drafts Gmail messages through the Chrome extension for manual send
 - 🖼️ Automatically resizes and attaches a logo image
 - 🧠 Tracks sent emails in a local cache file
-- ⏱️ Adds itself to your crontab if not already scheduled
 - 🧾 Uses shared signature
 
 ---
 
 ## 🛠 Requirements
 
-- macOS with:
-    - Apple Mail installed
-    - `osascript`, `pbcopy`, and `sips` available (standard on macOS)
-- PHP 8+
-- Local crontab access
+- Google Chrome
+- Node.js and npm
 
 ---
 
 ## ⚙️ Setup
 
-1. **Build and run the scheduler:**
+1. **Install dependencies and build the extension:**
 
    ```bash
    npm install
    npm run build
-   node dist/email-scheduler.js
    ```
+
+2. **Load the extension in Chrome** (see [CHROME.md](CHROME.md) for detailed steps).
 
 ---
