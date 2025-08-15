@@ -6,6 +6,8 @@ This utility automates rich weekly email drafts for afterschool robotics program
 
 It also installs itself into cron for automated hourly checks and avoids re-sending duplicate emails.
 
+For a browser-based option, see [CHROME.md](CHROME.md) for a minimal Chrome extension.
+
 ---
 
 ## Setup 

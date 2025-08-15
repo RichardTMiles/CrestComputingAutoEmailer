@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "After School Email Scheduler",
+  "version": "1.0",
+  "description": "Drafts weekly class emails using the existing JSON data.",
+  "background": { "service_worker": "background.js" },
+  "action": { "default_title": "Draft class email", "default_icon": "robot.png" },
+  "icons": { "128": "robot.png" },
+  "permissions": ["tabs"]
+}
