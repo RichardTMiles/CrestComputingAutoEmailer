@@ -13,7 +13,8 @@ async function sendDraft() {
     const startDate = new Date(cls.startDate);
     const days = Math.floor((today - startDate) / 86400000);
     const weeks = Math.floor(days / 7);
-    const currWeek = weeks - cls.skip.length;
+    const skippedWeeks = cls.skip.filter((d) => new Date(d) <= today).length;
+    const currWeek = weeks - skippedWeeks;
     const lessonNames = Object.keys(templates);
     const lessonKey = lessonNames[currWeek];
     const template = templates[lessonKey];
