@@ -56,11 +56,12 @@ This file contains your curriculum-aligned email templates, each indexed by the 
 
 ## ⚙️ Setup
 
-1. **Make the script executable:**
+1. **Build and run the scheduler:**
 
    ```bash
-   chmod +x email-scheduler.php
-   ./email-scheduler.php
+   npm install
+   npm run build
+   node dist/email-scheduler.js
    ```
 
 ---
