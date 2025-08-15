@@ -1,0 +1,978 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Assessorly//After School Classes 2025-26//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Denver
+X-LIC-LOCATION:America/Denver
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bdb6a14f-7267-5a92-bc12-864c653db91a@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20250829T155000
+DTEND;TZID=America/Denver:20250829T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ee5adf08-9524-574a-b1c2-beb324ac9fed@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20250905T155000
+DTEND;TZID=America/Denver:20250905T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:4d9290ce-ec2c-51c6-9f7d-d2b6009a3840@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20250912T155000
+DTEND;TZID=America/Denver:20250912T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:93045632-c228-53fc-87d2-01bb1bdc1f90@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20250926T155000
+DTEND;TZID=America/Denver:20250926T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:eb2116ce-b1c8-5e01-892d-cfb0a9587195@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251003T155000
+DTEND;TZID=America/Denver:20251003T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:0547b0cc-5f05-5953-b4b2-74ead5a4a421@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251017T155000
+DTEND;TZID=America/Denver:20251017T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:e2c5b719-1539-5cbb-b941-20b4cfef97b6@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251024T155000
+DTEND;TZID=America/Denver:20251024T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:bc46de80-db28-5d7d-b4b7-13e6999ef54c@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251031T155000
+DTEND;TZID=America/Denver:20251031T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:9584085d-4485-5b50-bc9d-b4f2915b1896@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251107T155000
+DTEND;TZID=America/Denver:20251107T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:191dbd92-5d4e-5088-b1de-5130c6f213db@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251114T155000
+DTEND;TZID=America/Denver:20251114T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:d158b5af-900f-5ead-8cd6-f773dadf0ba0@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251121T155000
+DTEND;TZID=America/Denver:20251121T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:a116cee5-27d1-5443-b035-a1ece6a790e4@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251205T155000
+DTEND;TZID=America/Denver:20251205T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:93f90f51-67f2-529c-ad1b-ba01842714b9@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251212T155000
+DTEND;TZID=America/Denver:20251212T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:f05bd50c-dbd0-574b-9038-610d7122ed53@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251219T155000
+DTEND;TZID=America/Denver:20251219T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:400b55a4-cab4-5732-9458-b8e540795253@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260109T155000
+DTEND;TZID=America/Denver:20260109T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:dda590cc-ab3d-50cd-8dd8-ac497811b163@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260116T155000
+DTEND;TZID=America/Denver:20260116T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:8d485505-fdd0-5c3c-b8ff-5ab7cd53021b@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260123T155000
+DTEND;TZID=America/Denver:20260123T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:fa87b6fe-8c35-5423-916c-a92b55cce26b@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260130T155000
+DTEND;TZID=America/Denver:20260130T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:8d11daf8-6ab3-5139-a73a-c364a4d763f1@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260206T155000
+DTEND;TZID=America/Denver:20260206T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:2cd87036-e30c-5af8-8dc0-3c91600f6847@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260213T155000
+DTEND;TZID=America/Denver:20260213T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ee74e063-4074-5720-aa43-21381cc34508@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260220T155000
+DTEND;TZID=America/Denver:20260220T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:0309d413-7ba2-5195-90e1-e8232b079ab0@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260227T155000
+DTEND;TZID=America/Denver:20260227T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:e672fcaf-39b2-5362-b3c5-8abab45625fc@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260306T155000
+DTEND;TZID=America/Denver:20260306T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:bddcbb14-bc92-54ce-8652-5c17d4a2c2bf@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260313T155000
+DTEND;TZID=America/Denver:20260313T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:70af80d6-60a4-57bb-a60d-06957ad555b5@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260320T155000
+DTEND;TZID=America/Denver:20260320T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:00b0d50b-39ed-5aa6-960f-55e6d6cd8676@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260403T155000
+DTEND;TZID=America/Denver:20260403T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:13139f07-11b5-5518-a5e7-78461f9c8618@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260410T155000
+DTEND;TZID=America/Denver:20260410T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:43453404-b68b-5efc-82f6-0eb3bc82e4aa@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260417T155000
+DTEND;TZID=America/Denver:20260417T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:3b80195e-fc19-5d03-b9fb-c44e6595e813@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260424T155000
+DTEND;TZID=America/Denver:20260424T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:4bfbf9e2-82b3-5494-a1fe-ffbb5e767f91@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260501T155000
+DTEND;TZID=America/Denver:20260501T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:0374b259-4f45-5620-8e6e-52faaeb1b682@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260508T155000
+DTEND;TZID=America/Denver:20260508T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:faacf31b-0146-52b4-958c-f3c4d7f590f0@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260515T155000
+DTEND;TZID=America/Denver:20260515T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:39f54f5d-f28f-54e0-9cbb-1be2da863388@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260522T155000
+DTEND;TZID=America/Denver:20260522T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:be091fa1-4dde-599d-9bc3-1657755416af@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260410T155000
+DTEND;TZID=America/Denver:20260410T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles (Single Class)
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:92be88bb-8c6e-59fa-baf7-0073dafc6806@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260515T155000
+DTEND;TZID=America/Denver:20260515T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles (Single Class)
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:bdb75d3a-db1f-5244-84c5-d1ff91534c57@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260213T155000
+DTEND;TZID=America/Denver:20260213T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles (Makeup)
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:a08f1280-9971-52a3-9d7a-86f0c49234e6@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260424T155000
+DTEND;TZID=America/Denver:20260424T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles (Makeup)
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ba38cfc6-db3c-5433-8b46-2035808fbd97@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260501T155000
+DTEND;TZID=America/Denver:20260501T165000
+SUMMARY:Bradford K-8 — Class with Richard Miles (Makeup)
+LOCATION:Bradford K-8
+DESCRIPTION:Region: South Denver\nContact: Tracy McGatlin (Tracy.McGatlin@jeffco.k12.co.us)\nDay/Time: Friday 3:50–4:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:9d1cbdc5-26b3-581b-a515-1880abecebbd@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20250825T143500
+DTEND;TZID=America/Denver:20250825T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:0bb447de-d531-5b97-923c-4ec2daf29520@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20250908T143500
+DTEND;TZID=America/Denver:20250908T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:d4033750-4edc-53f5-b2aa-0ec3928cce73@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20250915T143500
+DTEND;TZID=America/Denver:20250915T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ab1e347c-2124-55d6-b118-534cc85d59c0@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20250922T143500
+DTEND;TZID=America/Denver:20250922T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:6c7c9783-0ec6-5e4b-b439-a6254e614d68@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20250929T143500
+DTEND;TZID=America/Denver:20250929T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:2595b968-cf8c-549f-b8c2-1f6197c01d3f@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251006T143500
+DTEND;TZID=America/Denver:20251006T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:8cf43249-fb61-5281-83eb-1e315fd629e9@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251020T143500
+DTEND;TZID=America/Denver:20251020T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:d26c6153-243a-579b-ab99-e3433ab983b4@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251027T143500
+DTEND;TZID=America/Denver:20251027T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:0bbb326f-f1d4-58bd-9989-60e9f4440669@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251103T143500
+DTEND;TZID=America/Denver:20251103T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:c4a435c7-6f24-5a57-a45d-65ae8dfbbb27@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251110T143500
+DTEND;TZID=America/Denver:20251110T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:d900e1b0-6fd9-5408-a7f2-a845dbefcb39@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251117T143500
+DTEND;TZID=America/Denver:20251117T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:d6cf6637-82d0-5db9-ba4c-ee00f7195a55@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251201T143500
+DTEND;TZID=America/Denver:20251201T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:019ed2ac-3ef1-5812-8766-ce085a88eb94@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251208T143500
+DTEND;TZID=America/Denver:20251208T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:9471f477-f85a-59d8-a63d-7ba1a79484d5@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251215T143500
+DTEND;TZID=America/Denver:20251215T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:1755e8e8-a692-55ef-a75f-3d82c04fadf4@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260105T143500
+DTEND;TZID=America/Denver:20260105T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:eca21e70-f8be-55ae-b9c5-608ae5721e44@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260112T143500
+DTEND;TZID=America/Denver:20260112T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:9e52902a-6a7e-56b0-b780-f94f5c767d66@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260126T143500
+DTEND;TZID=America/Denver:20260126T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:8781a666-c5dd-50ef-a4c8-ca0a38be75be@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260202T143500
+DTEND;TZID=America/Denver:20260202T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:cacd1312-cb7a-5b94-8c23-d7a756f7ac91@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260209T143500
+DTEND;TZID=America/Denver:20260209T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:7ddb29fd-07f8-5225-9235-efa9fde73858@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260223T143500
+DTEND;TZID=America/Denver:20260223T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:2989f6c0-9527-5a0b-b071-353c8225c3bc@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260302T143500
+DTEND;TZID=America/Denver:20260302T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:1fe9902e-dc15-51c6-bc98-5508ac7c4085@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260309T143500
+DTEND;TZID=America/Denver:20260309T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:5fcb187e-3ba1-5a1c-a73f-5b859ba464c7@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260316T143500
+DTEND;TZID=America/Denver:20260316T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:2986bfc9-8c94-5e86-8577-bdb2d082de9f@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260330T143500
+DTEND;TZID=America/Denver:20260330T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:d6e736a4-6c9a-5b7e-9953-dac380796795@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260406T143500
+DTEND;TZID=America/Denver:20260406T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:095ee902-2cc4-5694-af56-08c562e619d2@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260413T143500
+DTEND;TZID=America/Denver:20260413T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:2e4616b2-3a82-5a63-a497-3389fd6d73a9@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260420T143500
+DTEND;TZID=America/Denver:20260420T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:86942974-a8c3-5319-b542-4fe26bb9ea83@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260427T143500
+DTEND;TZID=America/Denver:20260427T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:b211f1a0-2873-54ed-9b6b-65641c24d5df@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260504T143500
+DTEND;TZID=America/Denver:20260504T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:c0012a00-7d9d-59aa-87ca-32ab65851f99@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260511T143500
+DTEND;TZID=America/Denver:20260511T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:b6e0988a-d2ff-516f-8c93-2ba0fa7cf2a0@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260413T143500
+DTEND;TZID=America/Denver:20260413T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles (Single Class)
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:697d9781-effb-5ec4-a81d-68fea0b3f10b@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260511T143500
+DTEND;TZID=America/Denver:20260511T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles (Single Class)
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ea873d08-34ff-5607-bd86-97589bc9495e@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260105T143500
+DTEND;TZID=America/Denver:20260105T153500
+SUMMARY:Shaffer Elementary — Class with Richard Miles (Makeup)
+LOCATION:Shaffer Elementary
+DESCRIPTION:Region: South Denver\nContact: Julie Chavez (julie.chavez@jeffco.k12.co.us)\nDay/Time: Monday 2:35–3:35 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:17c8e2aa-97c6-5943-923c-15a9d03f2b18@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20250904T073000
+DTEND;TZID=America/Denver:20250904T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:124c15ab-c388-545c-90c5-a3a5dec6466a@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20250911T073000
+DTEND;TZID=America/Denver:20250911T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:686f8352-a454-5865-bdb9-c468842fe0f9@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20250918T073000
+DTEND;TZID=America/Denver:20250918T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:707c404d-9000-58db-98be-a01613e48c81@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20250925T073000
+DTEND;TZID=America/Denver:20250925T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:96498ae3-d8fa-583d-9237-e586d9b2fc5e@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251002T073000
+DTEND;TZID=America/Denver:20251002T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:00113e9c-7b2a-586e-9031-a38d5849ea27@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251009T073000
+DTEND;TZID=America/Denver:20251009T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:d0495b98-7bda-5fda-ace8-e4064a81c790@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251023T073000
+DTEND;TZID=America/Denver:20251023T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:6b669b51-5334-5610-a7f6-ed63951cdc91@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251030T073000
+DTEND;TZID=America/Denver:20251030T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:aa46a06f-17ae-5555-8e3b-1692850ed174@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251106T073000
+DTEND;TZID=America/Denver:20251106T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:3e296b20-7353-510e-93ac-32d635526b51@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251113T073000
+DTEND;TZID=America/Denver:20251113T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:f05a0f0b-011c-5c01-b272-d7d75ef85a11@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251120T073000
+DTEND;TZID=America/Denver:20251120T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ed1e440f-54a5-51b0-bcfa-6f80d7915235@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251204T073000
+DTEND;TZID=America/Denver:20251204T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:7729342b-5078-5bb5-8549-4d505d3cde5d@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251211T073000
+DTEND;TZID=America/Denver:20251211T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:28cb9144-f1b3-54b2-b5d5-a241d3b5921a@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20251218T073000
+DTEND;TZID=America/Denver:20251218T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:3ab00d87-0d84-5e4f-ab36-9c2765b9b11d@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260108T073000
+DTEND;TZID=America/Denver:20260108T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:7260dd24-5099-53da-9a6e-080ca6a91101@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260115T073000
+DTEND;TZID=America/Denver:20260115T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:c1b406ae-f2a6-5e42-be53-e2c70fabc05d@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260122T073000
+DTEND;TZID=America/Denver:20260122T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:f5f1f706-c213-5765-a81a-acb33c619e89@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260129T073000
+DTEND;TZID=America/Denver:20260129T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:14593795-93a0-5a30-8995-046b03900b37@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260205T073000
+DTEND;TZID=America/Denver:20260205T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:bf664f4a-06ba-53cf-8288-fe5ad20448b9@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260212T073000
+DTEND;TZID=America/Denver:20260212T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:1b8406c3-86d8-5647-91fe-d301bdff433c@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260219T073000
+DTEND;TZID=America/Denver:20260219T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:e7a6f6ec-4a06-511f-b457-ba4f440f98ab@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260226T073000
+DTEND;TZID=America/Denver:20260226T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:1fcd8a65-c9dc-5700-9a12-69ce3ba26758@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260305T073000
+DTEND;TZID=America/Denver:20260305T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:dd8d8859-da3e-5a18-9926-81e523bca43e@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260312T073000
+DTEND;TZID=America/Denver:20260312T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:4098bd02-2bc1-5b2c-a361-82f43f577349@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260326T073000
+DTEND;TZID=America/Denver:20260326T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:59f5cce1-57d7-53ae-ada6-03924d91e2db@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260402T073000
+DTEND;TZID=America/Denver:20260402T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:a520e91a-a6ef-5fab-b57f-f53aa3a26968@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260409T073000
+DTEND;TZID=America/Denver:20260409T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:0d511ed8-7c77-57c5-a9fd-da52f842ecb0@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260416T073000
+DTEND;TZID=America/Denver:20260416T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ab1ef0f3-187b-5ab1-b5ac-cceff3cd976d@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260423T073000
+DTEND;TZID=America/Denver:20260423T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:e26c9b0d-880d-58b0-96ce-63ee947193d8@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260430T073000
+DTEND;TZID=America/Denver:20260430T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:a4d975be-bf97-5396-9829-f4d4435dcc49@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260507T073000
+DTEND;TZID=America/Denver:20260507T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:a2ad864b-7db6-556b-9d27-de15164b664e@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260514T073000
+DTEND;TZID=America/Denver:20260514T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:d7e2134f-09b1-57eb-873c-9bd9284b1a98@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260521T073000
+DTEND;TZID=America/Denver:20260521T082000
+SUMMARY:Timber Trail — Class with Richard Miles
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:b7ce508c-96b0-5a67-ba1a-c7513e6cb6c4@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260430T073000
+DTEND;TZID=America/Denver:20260430T082000
+SUMMARY:Timber Trail — Class with Richard Miles (Single Class)
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:645e9f83-d9b0-5427-ad2c-c07446fe1489@assessorly
+DTSTAMP:20250815T110052
+DTSTART;TZID=America/Denver:20260521T073000
+DTEND;TZID=America/Denver:20260521T082000
+SUMMARY:Timber Trail — Class with Richard Miles (Single Class)
+LOCATION:Timber Trail Elementary
+DESCRIPTION:Region: South Denver\nContact: Kelly Colasuonno (kelly.colasuonno@dcsdk12.org)\nDay/Time: Thursday 7:30–8:20 AM
+END:VEVENT
+END:VCALENDAR
