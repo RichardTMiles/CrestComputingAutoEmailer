@@ -1,23 +1,33 @@
 {
   "classes": [
     {
-      "schoolName": "Timber Trail",
-      "className": "Motorized Tricycles",
-      "startDate": "2024-9-30",
-      "skip": ["2025-03-16"],
-      "startTime": "08:00",
-      "endTime": "10:00",
-      "bcc": ["monday-group@example.com"],
+      "schoolName": "Bradford K-8",
+      "className": "Robotics Club",
+      "startDate": "2025-08-29",
+      "skip": ["2025-09-19", "2025-10-10", "2025-11-28", "2025-12-26", "2026-01-02", "2026-03-27"],
+      "startTime": "15:50",
+      "endTime": "16:50",
+      "bcc": ["Tracy.McGatlin@jeffco.k12.co.us"],
       "links": ["https://seesaw.me/monday"]
     },
     {
-      "schoolName": "Crest Robotics Academy",
-      "className": "Obstacle-Dodging Robots",
-      "startDate": "2025-01-05",
-      "skip": ["2025-05-25"],
-      "startTime": "11:00",
-      "endTime": "13:00",
-      "bcc": ["monday-group@example.com"],
+      "schoolName": "Shaffer Elementary",
+      "className": "Robotics Club",
+      "startDate": "2025-08-25",
+      "skip": ["2025-09-01", "2025-10-13", "2025-11-24", "2025-12-22", "2025-12-29", "2026-01-19", "2026-02-16", "2026-03-23"],
+      "startTime": "14:35",
+      "endTime": "15:35",
+      "bcc": ["julie.chavez@jeffco.k12.co.us"],
+      "links": ["https://seesaw.me/monday"]
+    },
+    {
+      "schoolName": "Timber Trail",
+      "className": "Robotics Club",
+      "startDate": "2025-09-04",
+      "skip": ["2025-10-16", "2025-11-27", "2025-12-25", "2026-01-01", "2026-03-19"],
+      "startTime": "07:30",
+      "endTime": "08:20",
+      "bcc": ["kelly.colasuonno@dcsdk12.org"],
       "links": ["https://seesaw.me/monday"]
     }
   ]

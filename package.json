@@ -1,0 +1,17 @@
+{
+  "name": "crestcomputing-auto-emailer",
+  "version": "1.0.0",
+  "description": "After School Email Scheduler",
+  "main": "dist/email-scheduler.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "tsc --noEmit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "typescript": "^5.6.3"
+  }
+}

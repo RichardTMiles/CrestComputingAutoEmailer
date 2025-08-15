@@ -1,4 +1,6 @@
 .idea
 sent-classes-cache.json
+node_modules
+dist
 
 
