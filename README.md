@@ -36,33 +36,30 @@ This file contains your curriculum-aligned email templates, each indexed by the 
 ## 🚀 Features
 
 - ✅ Auto-detects the current curriculum week (with skipped week support)
-- 📬 Opens visible Apple Mail drafts (via AppleScript) for review and manual send
+- 📬 Drafts Gmail messages through the Chrome extension for manual send
 - 🖼️ Automatically resizes and attaches a logo image
 - 🧠 Tracks sent emails in a local cache file
-- ⏱️ Adds itself to your crontab if not already scheduled
 - 🧾 Uses shared signature
 
 ---
 
 ## 🛠 Requirements
 
-- macOS with:
-    - Apple Mail installed
-    - `osascript`, `pbcopy`, and `sips` available (standard on macOS)
-- PHP 8+
-- Local crontab access
+- Google Chrome
+- Node.js and npm
 
 ---
 
 ## ⚙️ Setup
 
-1. **Build and run the scheduler:**
+1. **Install dependencies and build the extension:**
 
    ```bash
    npm install
    npm run build
-   node dist/email-scheduler.js
    ```
+
+2. **Load the extension in Chrome** (see [CHROME.md](CHROME.md) for detailed steps).
 
    Or, in one pass (build then run):
 

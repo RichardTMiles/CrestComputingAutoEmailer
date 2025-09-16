@@ -71,7 +71,7 @@ for (const cls of scheduleData.classes) {
   const weeks = Math.floor(days / 7);
   console.log(`Weeks since start: ${weeks}`);
 
-  const skippedWeeks = cls.skip.length;
+  const skippedWeeks = cls.skip.filter((d: string) => new Date(d) <= currentDate).length;
   const curriculumWeek = weeks - skippedWeeks;
   console.log(`Curriculum Week: ${curriculumWeek}`);
 
