@@ -1,34 +1,247 @@
 {
+  "defaults": {
+    "travelNotifyMinutes": [60, 45]
+  },
   "classes": [
     {
-      "schoolName": "Bradford K-8",
-      "className": "Robotics Club",
-      "startDate": "2025-08-29",
-      "skip": ["2025-09-19", "2025-10-10", "2025-11-28", "2025-12-26", "2026-01-02", "2026-03-27"],
-      "startTime": "15:50",
-      "endTime": "16:50",
-      "bcc": ["Tracy.McGatlin@jeffco.k12.co.us"],
-      "links": ["https://seesaw.me/monday"]
-    },
-    {
-      "schoolName": "Shaffer Elementary",
-      "className": "Robotics Club",
-      "startDate": "2025-08-25",
-      "skip": ["2025-09-01", "2025-10-13", "2025-11-24", "2025-12-22", "2025-12-29", "2026-01-19", "2026-02-16", "2026-03-23"],
-      "startTime": "14:35",
-      "endTime": "15:35",
-      "bcc": ["julie.chavez@jeffco.k12.co.us"],
-      "links": ["https://seesaw.me/monday"]
+      "schoolName": "Cottonwood Creek",
+      "className": "Robotics & Coding Club (2025–26)",
+      "location": "Cottonwood Creek Elementary (Cherry Creek, CO)",
+      "startDate": "2025-09-05",
+      "endDate": "2026-05-15",
+      "weekday": "FRI",
+      "startTime": "14:45",
+      "endTime": "15:45",
+      "skip": [],
+      "bcc": [],
+      "links": [],
+      "roster": [
+        {
+          "studentName": "Madison McWilliams",
+          "age": 5,
+          "grade": "K",
+          "gender": "Female",
+          "experience": "No experience",
+          "allergies": "None",
+          "pickupPlan": "Drop off to after-care program within campus",
+          "teacher": "Glenda Cole",
+          "guardians": [
+            { "name": "Jason R McWilliams", "email": "steelystan@gmail.com", "phone": "7203254388" },
+            { "name": "Tracy McWilliams", "email": "tcthomps@gmail.com", "phone": "7194340664" }
+          ],
+          "address": { "street": "4171 South Spruce Street", "unit": "", "city": "Denver" }
+        },
+        {
+          "studentName": "Alexander King",
+          "age": 5,
+          "grade": "1",
+          "gender": "Male",
+          "experience": "No experience",
+          "allergies": "None",
+          "pickupPlan": "Drop off to after-care program within campus",
+          "teacher": "Frick",
+          "guardians": [
+            { "name": "Christopher King", "email": "christopher.king38@gmail.com", "phone": "5033147843" },
+            { "name": "Shannon Acker", "email": "shannon.acker@gmail.com", "phone": "3033784128" }
+          ],
+          "address": { "street": "5651 S Lima St.", "unit": "", "city": "Englewood" }
+        },
+        {
+          "studentName": "Aadri Pakhira",
+          "age": 5,
+          "grade": "2",
+          "gender": "Male",
+          "experience": "No experience",
+          "allergies": "none",
+          "pickupPlan": "N/A - Before School Program",
+          "teacher": "Kathryn Jansen",
+          "guardians": [
+            { "name": "Sujata Bhattarai", "email": "sujata48@gmail.com", "phone": "8167160891" },
+            { "name": "Abhishek Pakhira", "email": "abhishekpakhira@gmail.com", "phone": "816-716-0672" }
+          ],
+          "address": { "street": "6093 S Oswego St", "unit": "", "city": "Greenwood Village" }
+        },
+        {
+          "studentName": "Ari Taffet",
+          "age": 5,
+          "grade": "K",
+          "gender": "Male",
+          "experience": "No experience",
+          "allergies": "None",
+          "pickupPlan": "Parent pick up: walker",
+          "teacher": "Schultz",
+          "guardians": [
+            { "name": "Emily Gill", "email": "gill.emily@gmail.com", "phone": "9147156270" },
+            { "name": "Martin M Taffet", "email": "Taffet.Martin@gmail.com", "phone": "3033592347" }
+          ],
+          "address": { "street": "5677 S. Kenton Way", "unit": "", "city": "Englewood" }
+        },
+        {
+          "studentName": "Benjamin Oh",
+          "age": 6,
+          "grade": "1",
+          "gender": "Male",
+          "experience": "No experience",
+          "allergies": "None",
+          "pickupPlan": "Parent pick up: walker",
+          "teacher": "Mrs. Frick",
+          "guardians": [
+            { "name": "Wonchan Oh", "email": "boramyou@gmail.com", "phone": "5309024496" },
+            { "name": "Boram You", "email": "wonchanoh@gmail.com", "phone": "5309026891" }
+          ],
+          "address": { "street": "5806 S Jamaica way", "unit": "", "city": "Englewood" }
+        },
+        {
+          "studentName": "Declan Morrow",
+          "age": 6,
+          "grade": "1",
+          "gender": "Male",
+          "experience": "1 Year",
+          "allergies": "None",
+          "pickupPlan": "N/A - Before School Program",
+          "teacher": "Hannah Frick",
+          "guardians": [
+            { "name": "Suzanna Morrow", "email": "scmlcb1118@gmail.com", "phone": "312-218-4474" },
+            { "name": "Matthew Morrow", "email": "13galt13@gmail.com", "phone": "720-512-8049" }
+          ],
+          "address": { "street": "6175 S Akron Way", "unit": "", "city": "Greenwood Village" }
+        },
+        {
+          "studentName": "Oberyn Cragg",
+          "age": 6,
+          "grade": "1",
+          "gender": "Male",
+          "experience": "No experience",
+          "allergies": "No known",
+          "pickupPlan": "Parent pick up: car",
+          "teacher": "Mrs. Hannah Frick",
+          "guardians": [
+            { "name": "Kathryn Cragg", "email": "kathrynanne445@gmail.com", "phone": "7202764161" },
+            { "name": "Joshua Cragg", "email": "jcragg42@gmail.com", "phone": "3039569296" }
+          ],
+          "address": { "street": "4512 South Crystal Way", "unit": "Unit A", "city": "Aurora" }
+        },
+        {
+          "studentName": "Zhengen Caleb Chen",
+          "age": 6,
+          "grade": "1",
+          "gender": "Male",
+          "experience": "No experience",
+          "allergies": "Tree Nuts",
+          "pickupPlan": "Parent pick up: walker",
+          "teacher": "Jessica Neal",
+          "guardians": [
+            { "name": "Xiaosheng Chen", "email": "chenxiaosheng520@hotmail.com", "phone": "3033194181" },
+            { "name": "Lin Zheng", "email": "zhenglinzhenglin@hotmail.com", "phone": "7203083155" }
+          ],
+          "address": { "street": "11906 E Lake Cir", "unit": "", "city": "Greenwood Village" }
+        },
+        {
+          "studentName": "Augustus",
+          "age": 7,
+          "grade": "1",
+          "gender": "Male",
+          "experience": "No experience",
+          "allergies": "None",
+          "pickupPlan": "Self walker/biker",
+          "teacher": "Hargreaves",
+          "guardians": [
+            { "name": "Jamie Bear", "email": "jamiebearyoga@gmail.com", "phone": "3038607729" },
+            { "name": "Ben Bear", "email": "bearotti@gmail.com", "phone": "3035259544" }
+          ],
+          "address": { "street": "6052 S Lima Way", "unit": "", "city": "Englewood" }
+        },
+        {
+          "studentName": "Catherine Urazova",
+          "age": 7,
+          "grade": "2",
+          "gender": "Female",
+          "experience": "> 1 Year",
+          "allergies": "None",
+          "pickupPlan": "Parent pick up: car",
+          "teacher": "Mrs. Natalie Morris",
+          "guardians": [
+            { "name": "Eleanor Lee", "email": "ellie007@gmail.com", "phone": "(773) 426-4016" },
+            { "name": "Vladimir Urazov", "email": "vurazov@gmail.com", "phone": "(404) 358-2804" }
+          ],
+          "address": { "street": "11960 E Fair Ave", "unit": "", "city": "Greenwood Village" }
+        },
+        {
+          "studentName": "Beatrice Brown",
+          "age": 6,
+          "grade": "1",
+          "gender": "Female",
+          "experience": "No experience",
+          "allergies": "none",
+          "pickupPlan": "Parent pick up: car",
+          "teacher": "Frick",
+          "guardians": [
+            { "name": "Monica Brown", "email": "monica.petraglia@gmail.com", "phone": "4155005137" },
+            { "name": "Chris Brown", "email": "christopher.john.brown@gmail.com", "phone": "415.500.5150" }
+          ],
+          "address": { "street": "5132 South Ironton Way", "unit": "", "city": "Englewood" }
+        },
+        {
+          "studentName": "Luciana Joya",
+          "age": 5,
+          "grade": "1",
+          "gender": "Female",
+          "experience": "No experience",
+          "allergies": "No",
+          "pickupPlan": "Parent pick up: walker",
+          "teacher": "Neal",
+          "guardians": [
+            { "name": "Mónica Joya", "email": "Monica.j04@outlook.com", "phone": "7208088496" },
+            { "name": "Aaron Salman", "email": "Monica.j04@outlook.com", "phone": "8478995321" }
+          ],
+          "address": { "street": "6083 S Kingston Cir", "unit": "", "city": "Englewood" }
+        }
+      ]
     },
     {
       "schoolName": "Timber Trail",
-      "className": "Robotics Club",
-      "startDate": "2025-09-04",
-      "skip": ["2025-10-16", "2025-11-27", "2025-12-25", "2026-01-01", "2026-03-19"],
-      "startTime": "07:30",
-      "endTime": "08:20",
+      "className": "Robotics & Coding Club (2025–26)",
+      "location": "Timber Trail Elementary (DCSD, Castle Rock, CO)",
+      "startDate": "2025-10-09",
+      "endDate": "2026-05-21",
+      "weekday": "THU",
+      "startTime": "15:30",
+      "endTime": "16:30",
+      "skip": [],
       "bcc": ["kelly.colasuonno@dcsdk12.org"],
-      "links": ["https://seesaw.me/monday"]
+      "links": [],
+      "roster": []
+    },
+    {
+      "schoolName": "Shaffer Elementary",
+      "className": "Robotics & Coding Club (2025–26)",
+      "location": "Shaffer Elementary (Jeffco, Littleton, CO)",
+      "startDate": "2025-09-08",
+      "endDate": "2026-05-11",
+      "weekday": "MON",
+      "startTime": "14:35",
+      "endTime": "15:35",
+      "skip": [],
+      "bcc": ["julie.chavez@jeffco.k12.co.us"],
+      "links": [],
+      "roster": [
+        { "studentName": "Everest Lusk", "age": 5, "grade": "K", "gender": "Male", "experience": "1 Year", "allergies": "none", "pickupPlan": "Drop off to after-care program within campus", "teacher": "Roeschoff", "guardians": [ { "name": "Allison Ossege-Lusk", "email": "allison.ossege@gmail.com", "phone": "5138862778" }, { "name": "Peter Lusk", "email": "c10peter.lusk@gmail.com", "phone": "8646508879" } ], "address": { "street": "11036 West rockland drive", "unit": "", "city": "littleton" }, "source": "School website", "status": "active", "notes": "" },
+        { "studentName": "Keaton Zastrow", "age": 5, "grade": "K", "gender": "Male", "experience": "No experience", "allergies": "None", "pickupPlan": "Parent pick up: car", "teacher": "Laura Satz", "guardians": [ { "name": "Christina Ikard", "email": "christina.ikard@gmail.com", "phone": "7203190425" }, { "name": "Taylor Zastrow", "email": "zastrowt@gmail.com", "phone": "2084074239" } ], "address": { "street": "9620 s Dover way", "unit": "", "city": "Littleton" }, "source": "Physical flier", "status": "active", "notes": "" },
+        { "studentName": "Dylan Lee", "age": 8, "grade": "3", "gender": "Male", "experience": "No experience", "allergies": "None that we know of", "pickupPlan": "Parent pick up: walker", "teacher": "Morris", "guardians": [ { "name": "Krystle Archuleta", "email": "krystlerose88@yahoo.com", "phone": "7208006505" }, { "name": "Greg Lee", "email": "leemosaics@gmail.com", "phone": "7208006766" } ], "address": { "street": "11604 Elk Head Range Rd.", "unit": "", "city": "Littleton" }, "source": "Physical flier", "status": "active", "notes": "Tribe will pay tuition; needs W-9 to start payments and set up automatic payment." },
+        { "studentName": "Mackenzie Fells", "age": 8, "grade": "3", "gender": "Male", "experience": "No experience", "allergies": "NA", "pickupPlan": "Parent pick up: car", "teacher": "Skeen", "guardians": [ { "name": "Andrea Fells", "email": "haverkate.a@gmail.com", "phone": "7195027268" }, { "name": "Jake Fells", "email": "fellsj27@gmail.com", "phone": "3038082904" } ], "address": { "street": "9055 W Freiburg Pl", "unit": "", "city": "Littleton" }, "source": "School website", "status": "active", "notes": "" },
+        { "studentName": "Coralie Pauls", "age": 8, "grade": "3", "gender": "Female", "experience": "No experience", "allergies": "None", "pickupPlan": "Self walker/biker", "teacher": "Poste", "guardians": [ { "name": "Sarah Pauls", "email": "sarahcraig6@hotmail.com", "phone": "3145415438" }, { "name": "Nathan Pauls", "email": "nathanpauls@gmail.com", "phone": "7209395773" } ], "address": { "street": "10525 W Sundance Mountain Rd", "unit": "", "city": "Littleton" }, "source": "Physical flier", "status": "active", "notes": "" },
+        { "studentName": "Ron Zeevi", "age": 9, "grade": "4", "gender": "Male", "experience": "No experience", "allergies": "No", "pickupPlan": "Parent pick up: car", "teacher": "Holly Sharpeta", "guardians": [ { "name": "Nisan Zeevi", "email": "Nisanzeevi13@gmail.com", "phone": "8184169819" }, { "name": "Cohava Zeevi", "email": "cohavazeevi@gmail.com", "phone": "8182620966" } ], "address": { "street": "161 N Civic Dr", "unit": "", "city": "Walnut Creek" }, "source": "Physical flier", "status": "active", "notes": "" },
+        { "studentName": "Greyson Smith", "age": 9, "grade": "4", "gender": "Male", "experience": "No experience", "allergies": "none", "pickupPlan": "Parent pick up: car", "teacher": "Mrs. wall", "guardians": [ { "name": "Adam smith", "email": "adams1014@att.net", "phone": "9185102716" }, { "name": "sarah smith", "email": "smf1281@aol.com", "phone": "8155792768" } ], "address": { "street": "41 tamarade drive", "unit": "", "city": "littleton" }, "source": "Physical flier", "status": "active", "notes": "" },
+        { "studentName": "Luke Fells", "age": 10, "grade": "5", "gender": "Male", "experience": "No experience", "allergies": "NA", "pickupPlan": "Parent pick up: car", "teacher": "Brautigam", "guardians": [ { "name": "Andrea Fells", "email": "haverkate.a@gmail.com", "phone": "7195027268" }, { "name": "Jake Fells", "email": "fellsj27@gmail.com", "phone": "3038082904" } ], "address": { "street": "9055 W Freiburg Pl", "unit": "", "city": "Littleton" }, "source": "School website", "status": "active", "notes": "" },
+        { "studentName": "Gavin Male", "age": 10, "grade": "5", "gender": "Male", "experience": "No experience", "allergies": "NA", "pickupPlan": "Parent pick up: walker", "teacher": "Aurelius", "guardians": [ { "name": "Kim Male", "email": "male.kimberly@gmail.com", "phone": "3036189498" }, { "name": "Justin Male", "email": "justinmale.co@gmail.com", "phone": "3038083108" } ], "address": { "street": "7541 S. Mount Owen", "unit": "", "city": "Littleton" }, "source": "School website", "status": "active", "notes": "" },
+        { "studentName": "Caleb Rappoport", "age": 11, "grade": "5", "gender": "Male", "experience": "No experience", "allergies": "None", "pickupPlan": "Parent pick up: car", "teacher": "Aurelius", "guardians": [ { "name": "Pamela Leonard", "email": "pamela.leonard5@gmail.com", "phone": "3035527305" }, { "name": "Jessica Rappoport", "email": "pamela.leonard5@gmail.com", "phone": null } ], "address": { "street": "9755 S Flower Way", "unit": "", "city": "Littleton" }, "source": "School website", "status": "active", "notes": "" },
+        { "studentName": "Asher Campton", "age": 10, "grade": "5", "gender": "Male", "experience": "No experience", "allergies": "None", "pickupPlan": "Parent pick up: car", "teacher": "Mrs. Brautigam", "guardians": [ { "name": "Britta Campton", "email": "Foote223@msn.com", "phone": "7203296232" }, { "name": "Zachory Campton", "email": "Zachcampton@hotmail.com", "phone": "3034753576" } ], "address": { "street": "10056 W Unser Dr", "unit": "#303", "city": "Littleton" }, "source": "Physical flier", "status": "active", "notes": "" },
+        { "studentName": "Tevinn Campton", "age": 10, "grade": "5", "gender": "Male", "experience": "No experience", "allergies": "None", "pickupPlan": "Parent pick up: car", "teacher": "Mrs. Brautigam", "guardians": [ { "name": "Britta Campton", "email": "Foote223@msn.com", "phone": "7203296232" }, { "name": "Zachory Campton", "email": "Zachcampton@hotmail.com", "phone": "3034753576" } ], "address": { "street": "10056 W Unser Dr", "unit": "#303", "city": "Littleton" }, "source": "Physical flier", "status": "active", "notes": "" },
+        { "studentName": "Adeline Joy", "age": 5, "grade": "1", "gender": "Female", "experience": "No experience", "allergies": "none", "pickupPlan": "Parent pick up: car", "teacher": "Myers", "guardians": [ { "name": "Emily", "email": "23.emily.emily@gmail.com", "phone": "7202393522" }, { "name": "Frances", "email": "fbodden@comcast.net", "phone": "3037171827" } ], "address": { "street": "9624 S Estes Way", "unit": "", "city": "Littleton" }, "source": "School website", "status": "", "notes": "" },
+        { "studentName": "Grace", "age": 5, "grade": "1", "gender": "Female", "experience": "No experience", "allergies": "Na", "pickupPlan": "N/A - Before School Program", "teacher": "Myers", "guardians": [ { "name": "Karen Brown", "email": "karenbrown2620@gmail.com", "phone": "3128055868" }, { "name": "Collins Brown", "email": "collinsbrown@gmail.com", "phone": "3302191276" } ], "address": { "street": "9975 W Baden Dr", "unit": "", "city": "Littleton" }, "source": "School website", "status": "active", "notes": "" },
+        { "studentName": "Hayden Holtman", "age": 10, "grade": "5", "gender": "Female", "experience": "No experience", "allergies": "none", "pickupPlan": "Parent pick up: car", "teacher": "Mrs Dolloff", "guardians": [ { "name": "Jeff", "email": "xhopesx@hotmail.com", "phone": "7202201142" }, { "name": "Karen Kamerzell", "email": "karen.kamerzell@gmail.com", "phone": "3039067429" } ], "address": { "street": "9351 S Johnson Ln", "unit": "", "city": "Littleton" }, "source": "Digital flier", "status": "active", "notes": "Other approved pick up persons: Collins & Karen Brown, Sherry Holtman, Britta Campton" },
+        { "studentName": "Rinnix Ross", "age": 6, "grade": "1", "gender": "Male", "experience": "No experience", "allergies": "Black pepper (suspected) - runs in the family", "pickupPlan": "Parent pick up: car", "teacher": "Lily Johnson", "guardians": [ { "name": "Jason Ross", "email": "Jross9801@gmail.com", "phone": "3039120501" }, { "name": "Carly Topley", "email": "ctopley@gmail.com", "phone": "5855077785" } ], "address": { "street": "9232 W Unser Ave", "unit": "", "city": "Littleton" }, "source": "Physical flier", "status": "active", "notes": "" }
+      ]
     }
   ]
 }

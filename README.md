@@ -64,4 +64,16 @@ This file contains your curriculum-aligned email templates, each indexed by the 
    node dist/email-scheduler.js
    ```
 
+   Or, in one pass (build then run):
+
+   ```bash
+   npm run build:run
+   ```
+
+   After the first build, you can also run just the compiled script:
+
+   ```bash
+   npm start
+   ```
+
 ---

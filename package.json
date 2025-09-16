@@ -5,6 +5,8 @@
   "main": "dist/email-scheduler.js",
   "scripts": {
     "build": "tsc",
+    "start": "node dist/email-scheduler.js",
+    "build:run": "npm run build && npm start",
     "test": "tsc --noEmit"
   },
   "keywords": [],

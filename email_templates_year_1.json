@@ -1,0 +1,92 @@
+[
+  {
+    "week": 1,
+    "lesson": "Initial Lesson + Lunar Rover (Weeks 1–2)",
+    "subject": "This Week's Lessons: Initial Lesson + Lunar Rover",
+    "body": "We hit the ground running with two big milestones: an **Initial Lesson** to learn our class routines and a creative **Lunar Rover** build 🚀🌕. Students learned where to find parts, how to share tools, and how to debug like engineers. Then they designed rovers to creep over “craters,” testing traction, torque, and careful turns. There were cheers, high-fives, and lots of “aha!” moments as bots conquered their first obstacles!\n\n**Level 1** focused on core build skills and simple motor control (start/stop, timed moves) 😊. **Level 2** added sensors and tuning (distance/line/light), experimenting with sequencing and speed profiles 🔧. **Level 3** pushed into strategy and robustness—closed-loop control, obstacle logic, and quick debugging under test-conditions 🧠.\n\nNext week, we’ll take everything we learned and build on it with **Drones**. Thank you for cheering the students on—they’re growing fast as builders, coders, and teammates! 🙏 As always, please reach out with any questions. \n\n🔗 Join us on Seesaw 📱"
+  },
+  {
+    "week": 2,
+    "lesson": "Drones",
+    "subject": "This Week's Lesson: Drones",
+    "body": "We took flight with **Drones** ✈️🛠️! Using safe tethered or ground-rig simulators, students explored thrust, yaw, and stability. They iterated rapidly—tiny code tweaks made a huge difference—while learning how sensor input translates into precise movement. The room buzzed with propellers and teamwork as everyone chased smooth, controlled flight.\n\n**Level 1** focused on core build skills and simple motor control (start/stop, timed moves) 😊. **Level 2** added sensors and tuning (distance/line/light), experimenting with sequencing and speed profiles 🔧. **Level 3** pushed into strategy and robustness—closed-loop control, obstacle logic, and quick debugging under test-conditions 🧠.\n\nNext week, we’ll take everything we learned and build on it with **Sailboat**. Thank you for cheering the students on—they’re growing fast as builders, coders, and teammates! 🙏 As always, please reach out with any questions. \n\n🔗 Join us on Seesaw 📱"
+  },
+  {
+    "week": 3,
+    "lesson": "Sailboat",
+    "subject": "This Week's Lesson: Sailboat",
+    "body": "Set a course for STEM seas with **Sailboats** ⛵💨! We explored how wind direction, hull shape, and fin placement affect motion. Students coded straight-line tracking and tacking maneuvers, then refined designs to keep a steady heading. Lots of experiments with angle of attack and balance paid off with graceful sailing!\n\n**Level 1** focused on core build skills and simple motor control (start/stop, timed moves) 😊. **Level 2** added sensors and tuning (distance/line/light), experimenting with sequencing and speed profiles 🔧. **Level 3** pushed into strategy and robustness—closed-loop control, obstacle logic, and quick debugging under test-conditions 🧠.\n\nNext week, we’ll take everything we learned and build on it with **Cranes**. Thank you for cheering the students on—they’re growing fast as builders, coders, and teammates! 🙏 As always, please reach out with any questions. \n\n🔗 Join us on Seesaw 📱"
+  },
+  {
+    "week": 4,
+    "lesson": "Cranes",
+    "subject": "This Week's Lesson: Cranes",
+    "body": "We lifted our learning with **Cranes** 🏗️⚖️! Students built booms and hooks, then practiced moving loads with care. They investigated leverage, center of mass, and why slow, steady motor control beats speed when precision matters. It was a great lesson in patience and mechanical advantage.\n\n**Level 1** focused on core build skills and simple motor control (start/stop, timed moves) 😊. **Level 2** added sensors and tuning (distance/line/light), experimenting with sequencing and speed profiles 🔧. **Level 3** pushed into strategy and robustness—closed-loop control, obstacle logic, and quick debugging under test-conditions 🧠.\n\nNext week, we’ll take everything we learned and build on it with **Big Bus**. Thank you for cheering the students on—they’re growing fast as builders, coders, and teammates! 🙏 As always, please reach out with any questions. \n\n🔗 Join us on Seesaw 📱"
+  },
+  {
+    "week": 5,
+    "lesson": "Big Bus",
+    "subject": "This Week's Lesson: Big Bus",
+    "body": "All aboard the **Big Bus** 🚌💡! Students designed long-wheelbase bots and learned how weight placement and wheelbase affect turning radius and stability. We programmed gentle acceleration and safe braking, then ran “bus routes” with tight corners that rewarded smooth driving and teamwork.\n\n**Level 1** focused on core build skills and simple motor control (start/stop, timed moves) 😊. **Level 2** added sensors and tuning (distance/line/light), experimenting with sequencing and speed profiles 🔧. **Level 3** pushed into strategy and robustness—closed-loop control, obstacle logic, and quick debugging under test-conditions 🧠.\n\nNext week, we’ll take everything we learned and build on it with **Giraffe**. Thank you for cheering the students on—they’re growing fast as builders, coders, and teammates! 🙏 As always, please reach out with any questions. \n\n🔗 Join us on Seesaw 📱"
+  },
+  {
+    "week": 6,
+    "lesson": "Giraffe",
+    "subject": "This Week's Lesson: Giraffe",
+    "body": "We stretched into biomimicry with **Giraffe** 🦒🔧! Students built linkages for neck motion and practiced coordinating multiple moving parts. They blended structural strength with expressive motion—some giraffes even nodded hello on command!\n\n**Level 1** focused on core build skills and simple motor control (start/stop, timed moves) 😊. **Level 2** added sensors and tuning (distance/line/light), experimenting with sequencing and speed profiles 🔧. **Level 3** pushed into strategy and robustness—closed-loop control, obstacle logic, and quick debugging under test-conditions 🧠.\n\nNext week, we’ll take everything we learned and build on it with **Pumpkins and Witches Oh My**. Thank you for cheering the students on—they’re growing fast as builders, coders, and teammates! 🙏 As always, please reach out with any questions. \n\n🔗 Join us on Seesaw 📱"
+  },
+  {
+    "week": 7,
+    "lesson": "Pumpkins and Witches Oh My",
+    "subject": "This Week's Lesson: Pumpkins and Witches Oh My",
+    "body": "Spooky season arrived with **Pumpkins and Witches, Oh My!** 🎃✨ Students combined lights, sound, and motion sensors to create interactive displays. They sequenced eerie effects and learned that a little timing logic can turn a simple bot into a theatrical showpiece.\n\n**Level 1** focused on core build skills and simple motor control (start/stop, timed moves) 😊. **Level 2** added sensors and tuning (distance/line/light), experimenting with sequencing and speed profiles 🔧. **Level 3** pushed into strategy and robustness—closed-loop control, obstacle logic, and quick debugging under test-conditions 🧠.\n\nNext week, we’ll take everything we learned and build on it with **Air Boat**. Thank you for cheering the students on—they’re growing fast as builders, coders, and teammates! 🙏 As always, please reach out with any questions. \n\n🔗 Join us on Seesaw 📱"
+  },
+  {
+    "week": 8,
+    "lesson": "Air Boat",
+    "subject": "This Week's Lesson: Air Boat",
+    "body": "We explored thrust on water with the **Air Boat** 🚤💨! By channeling airflow from a prop, students discovered how directional thrust and hull design create speed and turning. Small tweaks to prop orientation and weight balance made big changes in handling—perfect for engineering iteration.\n\n**Level 1** focused on core build skills and simple motor control (start/stop, timed moves) 😊. **Level 2** added sensors and tuning (distance/line/light), experimenting with sequencing and speed profiles 🔧. **Level 3** pushed into strategy and robustness—closed-loop control, obstacle logic, and quick debugging under test-conditions 🧠.\n\nNext week, we’ll take everything we learned and build on it with **Scarecrow**. Thank you for cheering the students on—they’re growing fast as builders, coders, and teammates! 🙏 As always, please reach out with any questions. \n\n🔗 Join us on Seesaw 📱"
+  },
+  {
+    "week": 9,
+    "lesson": "Scarecrow",
+    "subject": "This Week's Lesson: Scarecrow",
+    "body": "Back to the field with **Scarecrow** 🌾🤖! Students animated a friendly guardian using lights, motion cues, and sound. They practiced event-driven programming (if this happens, then do that), and saw how sequencing creates personality.\n\n**Level 1** focused on core build skills and simple motor control (start/stop, timed moves) 😊. **Level 2** added sensors and tuning (distance/line/light), experimenting with sequencing and speed profiles 🔧. **Level 3** pushed into strategy and robustness—closed-loop control, obstacle logic, and quick debugging under test-conditions 🧠.\n\nNext week, we’ll take everything we learned and build on it with **Fall Harvest**. Thank you for cheering the students on—they’re growing fast as builders, coders, and teammates! 🙏 As always, please reach out with any questions. \n\n🔗 Join us on Seesaw 📱"
+  },
+  {
+    "week": 10,
+    "lesson": "Fall Harvest",
+    "subject": "This Week's Lesson: Fall Harvest",
+    "body": "We celebrated the season with **Fall Harvest** 🍂🛠️! Students prototyped collectors and conveyors, then coded repeatable cycles to gather and sort. It was a perfect mix of mechanism design and reliable automation.\n\n**Level 1** focused on core build skills and simple motor control (start/stop, timed moves) 😊. **Level 2** added sensors and tuning (distance/line/light), experimenting with sequencing and speed profiles 🔧. **Level 3** pushed into strategy and robustness—closed-loop control, obstacle logic, and quick debugging under test-conditions 🧠.\n\nNext week, we’ll take everything we learned and build on it with **Cross Country Skier**. Thank you for cheering the students on—they’re growing fast as builders, coders, and teammates! 🙏 As always, please reach out with any questions. \n\n🔗 Join us on Seesaw 📱"
+  },
+  {
+    "week": 11,
+    "lesson": "Cross Country Skier",
+    "subject": "This Week's Lesson: Cross Country Skier",
+    "body": "We hit the (indoor) trails with **Cross Country Skier** ⛷️❄️! Students tuned friction and glide, adjusting foot patterns to maintain forward momentum. It was a fun study of balance, rhythm, and directional control.\n\n**Level 1** focused on core build skills and simple motor control (start/stop, timed moves) 😊. **Level 2** added sensors and tuning (distance/line/light), experimenting with sequencing and speed profiles 🔧. **Level 3** pushed into strategy and robustness—closed-loop control, obstacle logic, and quick debugging under test-conditions 🧠.\n\nNext week, we’ll take everything we learned and build on it with **Santa Claus**. Thank you for cheering the students on—they’re growing fast as builders, coders, and teammates! 🙏 As always, please reach out with any questions. \n\n🔗 Join us on Seesaw 📱"
+  },
+  {
+    "week": 12,
+    "lesson": "Santa Claus",
+    "subject": "This Week's Lesson: Santa Claus",
+    "body": "Holiday engineering with **Santa Claus** 🎅🛷! Teams designed sleighs and coded delivery routes, juggling payloads, climbs, and stops. This playful challenge packed in planning, sequencing, and collaboration.\n\n**Level 1** focused on core build skills and simple motor control (start/stop, timed moves) 😊. **Level 2** added sensors and tuning (distance/line/light), experimenting with sequencing and speed profiles 🔧. **Level 3** pushed into strategy and robustness—closed-loop control, obstacle logic, and quick debugging under test-conditions 🧠.\n\nNext week, we’ll take everything we learned and build on it with **Christmas Tree**. Thank you for cheering the students on—they’re growing fast as builders, coders, and teammates! 🙏 As always, please reach out with any questions. \n\n🔗 Join us on Seesaw 📱"
+  },
+  {
+    "week": 13,
+    "lesson": "Christmas Tree",
+    "subject": "This Week's Lesson: Christmas Tree",
+    "body": "We lit up the lab with **Christmas Tree** 🎄💡! Students orchestrated LED patterns with timers and sensors, learning how non-blocking loops keep animations smooth. Creativity and code came together beautifully.\n\n**Level 1** focused on core build skills and simple motor control (start/stop, timed moves) 😊. **Level 2** added sensors and tuning (distance/line/light), experimenting with sequencing and speed profiles 🔧. **Level 3** pushed into strategy and robustness—closed-loop control, obstacle logic, and quick debugging under test-conditions 🧠.\n\nNext week, we’ll take everything we learned and build on it with **Motor Boat**. Thank you for cheering the students on—they’re growing fast as builders, coders, and teammates! 🙏 As always, please reach out with any questions. \n\n🔗 Join us on Seesaw 📱"
+  },
+  {
+    "week": 14,
+    "lesson": "Motor Boat",
+    "subject": "This Week's Lesson: Motor Boat",
+    "body": "Back to the waterline with **Motor Boat** ⚙️🚤! Students tested propeller pitch and hull stability, saw how motor power becomes thrust, and tuned their code for straight runs versus quick turns. Lots of fast laps and focused debugging!\n\n**Level 1** focused on core build skills and simple motor control (start/stop, timed moves) 😊. **Level 2** added sensors and tuning (distance/line/light), experimenting with sequencing and speed profiles 🔧. **Level 3** pushed into strategy and robustness—closed-loop control, obstacle logic, and quick debugging under test-conditions 🧠.\n\nNext week, we’ll take everything we learned and build on it with **Paddle Steamer**. Thank you for cheering the students on—they’re growing fast as builders, coders, and teammates! 🙏 As always, please reach out with any questions. \n\n🔗 Join us on Seesaw 📱"
+  },
+  {
+    "week": 15,
+    "lesson": "Paddle Steamer",
+    "subject": "This Week's Lesson: Paddle Steamer",
+    "body": "We wrapped with a classic: **Paddle Steamer** 🚢🔁. Students converted rotational energy into forward motion using paddle wheels, then refined timing for smooth, efficient travel. It was a satisfying capstone mixing mechanics, code, and iteration.\n\n**Level 1** focused on core build skills and simple motor control (start/stop, timed moves) 😊. **Level 2** added sensors and tuning (distance/line/light), experimenting with sequencing and speed profiles 🔧. **Level 3** pushed into strategy and robustness—closed-loop control, obstacle logic, and quick debugging under test-conditions 🧠.\n\nNext week, we’ll take everything we learned and build on it with **a surprise build**. Thank you for cheering the students on—they’re growing fast as builders, coders, and teammates! 🙏 As always, please reach out with any questions. \n\n🔗 Join us on Seesaw 📱"
+  }
+]
